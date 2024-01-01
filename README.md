@@ -2,7 +2,7 @@
 ### persuing 
   * computer science engineering
 
-### what i know
+### what i know
   * cpp
   * c
   * lua
